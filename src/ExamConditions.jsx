@@ -145,7 +145,8 @@ const ExamConditions = () => {
 
     const handleCheckboxChange = (event) => {
         setIsAgreed(event.target.checked);
-    };
+    }; 
+    mnbhjvnbik nbhjfhj
 
     const handleStartExam = () => {
         if (isAgreed) {
