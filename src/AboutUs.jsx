@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 
-// Inline CSS Styles
+// Inline CSS Styles 
 const styles = {
     container: {
         fontFamily: 'Arial, sans-serif',
